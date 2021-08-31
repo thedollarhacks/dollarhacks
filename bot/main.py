@@ -4,7 +4,7 @@ import time
 # from mysql.connector import Error
 # import pandas as pd 
 
-bot = discum.Client(token='NDY5MDUyMTYzMDgzOTkzMDk4.YS54Og._OZ1H06m7oMURig2-IjODmBkyzQ', log=False)
+bot = discum.Client(token='NDY5MDUyMTYzMDgzOTkzMDk4.YS59YQ.4HA8KId5jN50Dg6GkewqT5WOi14', log=False)
 
 bot.sendMessage("882328183461011530", "Damn, I was down. But it feels good to be back! :)")
 
